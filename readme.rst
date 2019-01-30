@@ -1,4 +1,6 @@
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/amerino40/CodeigniterTennant.svg?columns=all)](https://waffle.io/amerino40/CodeigniterTennant)
+.. image:: https://badge.waffle.io/amerino40/CodeigniterTennant.svg?columns=all 
+ :target: https://waffle.io/amerino40/CodeigniterTennant 
+ :alt: 'Waffle.io - Columns and their card count'
 
 ###################
 What is CodeigniterTennant
